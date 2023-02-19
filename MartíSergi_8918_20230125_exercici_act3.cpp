@@ -1,3 +1,5 @@
+/******************MODIFICACIÓ*******************/
+
 /*
 Nom: Sergi Martí
 S'ha d'optimitzar aquest codi tot el que pugueu.
